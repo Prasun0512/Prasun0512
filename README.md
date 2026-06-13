@@ -1,17 +1,18 @@
 # Hi, I'm Prasun Kumar
 
-**Technical Lead | AI/ML Architect | Generative AI Solution Architect**
+**AI/ML Engineer | Technical Lead | GenAI & Agentic AI Solution Architect | LangGraph | LLMs | RAG | Azure OpenAI | Python**
 
 I have **8.5+ years of experience** designing and delivering enterprise-scale
-AI, machine-learning, automation, and cloud-native platforms across GenAI,
-RAG, LLMOps/MLOps, intelligent document processing, NLP, computer vision, and
-workflow automation.
+AI, machine-learning, automation, and cloud-native platforms across Agentic AI,
+LLM applications, RAG, LangGraph/LangChain workflows, LLMOps/MLOps, intelligent
+document processing, NLP, computer vision, and workflow automation.
 
 ## What I Build
 
-- **Enterprise GenAI platforms:** Azure OpenAI, GPT-4, RAG, AI agents, vector search, prompt governance
+- **Agentic AI systems:** LangGraph, LangChain, multi-agent orchestration, tool routing, memory, approvals
+- **Enterprise GenAI platforms:** Azure OpenAI, GPT-4, Llama/open-source LLMs, RAG, vector search, prompt governance
 - **RAG and knowledge discovery:** chunking, embeddings, hybrid retrieval, metadata filters, answer grounding, evaluation
-- **Intelligent document processing:** OCR, Azure AI Document Intelligence, structured extraction, confidence scoring
+- **File and document intelligence:** OCR, Azure AI Document Intelligence, LLM extraction, confidence scoring
 - **LLMOps/MLOps:** QLoRA, adapter evaluation, Databricks experiments, model monitoring, quality dashboards
 - **Automation architecture:** Azure Functions, Service Bus, Blob Storage, Graph API, event-driven workflows
 - **AI governance:** PII/PHI masking, auditability, human-in-the-loop review, responsible AI controls
@@ -28,14 +29,19 @@ workflow automation.
 - [Portfolio](https://prasun0512.github.io/Resume/) - AI/ML leadership portfolio and resume
 - [Enterprise AI/ML Case Studies](https://github.com/Prasun0512/enterprise-ai-ml-case-studies) - sanitized architecture notes and reusable starter patterns
 - [Enterprise RAG Quality Lab](https://github.com/Prasun0512/enterprise-rag-quality-lab) - runnable RAG evaluation, redaction, retrieval, and quality demo
+- [Agentic AI LangGraph Workflows](https://github.com/Prasun0512/agentic-ai-langgraph-workflows) - multi-agent workflow patterns using graph-style orchestration
+- [Document Intelligence LLM Pipeline](https://github.com/Prasun0512/document-intelligence-llm-pipeline) - OCR, redaction, extraction, and validation pattern
+- [Email-to-Case GenAI Automation](https://github.com/Prasun0512/email-to-case-genai-automation) - event-driven email/document automation architecture
+- [AI Resume Job Matcher](https://github.com/Prasun0512/ai-resume-job-matcher) - resume/JD matching with explainability and scoring
 - [Restaurant Chatbot](https://github.com/Prasun0512/ResturantChatbot) - NLP search assistant using embeddings and cloud NLP services
 - [Melanoma Detection](https://github.com/Prasun0512/Melanoma-Detection-Assignment) - computer-vision classification project
 - [Gesture Recognition](https://github.com/Prasun0512/Neural-Networks-Project---Gesture-Recognition) - deep-learning gesture classification
 
 ## Core Stack
 
-`Azure OpenAI` `GPT-4` `RAG` `Azure AI Search` `Vector Search` `AI Agents`
-`Azure Document Intelligence` `Python` `Databricks` `QLoRA` `Llama` `Gemma`
+`Agentic AI` `LangGraph` `LangChain` `Azure OpenAI` `GPT-4` `Llama`
+`Open-source LLMs` `RAG` `Azure AI Search` `Vector Search` `AI Agents`
+`OCR` `Azure Document Intelligence` `Python` `Databricks` `QLoRA` `Gemma`
 `Qwen` `MLflow` `TensorFlow` `PyTorch` `Docker` `Kubernetes` `AWS`
 `Azure Functions` `Service Bus` `Microsoft Graph API`
 
