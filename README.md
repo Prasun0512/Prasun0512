@@ -83,6 +83,31 @@ Agentic AI, RAG, LLMOps, and production-ready AI architecture.
 - **Governed AI:** PII/PHI redaction, auditability, prompt/version control, confidence thresholds, review queues
 - **Production engineering:** Docker, CI/CD, tests, typed Python, config hygiene, observability hooks, cost controls
 
+## Supporting AI Architecture Repositories
+
+- [mlflow-mlops-ai-platform](https://github.com/Prasun0512/mlflow-mlops-ai-platform) - MLflow-style experiment tracking, evaluation gates, registry decisions, and monitoring handoffs
+- [enterprise-ai-architecture-showcase](https://github.com/Prasun0512/enterprise-ai-architecture-showcase) - ADRs, HLD/LLD diagrams, AI security, and platform patterns
+- [enterprise-llm-evaluation-framework](https://github.com/Prasun0512/enterprise-llm-evaluation-framework) - LLM/RAG evaluation and release-gate patterns
+- [ai-reliability-engineering](https://github.com/Prasun0512/ai-reliability-engineering) - retry, fallback, poison queue, runbook, and postmortem patterns
+
+## Certification
+
+**Post Graduate Program in Machine Learning & Artificial Intelligence**  
+[Credential.net verification](https://www.credential.net/20453200-981b-4985-9ddf-2a44c5ee66cf)
+
+## Awards and Recognition
+
+- 3x Quarterly Team Award Winner
+- 2x Superstar Award Winner
+- 4x Technical Star Recognition
+- Recognitions for We-NOT-Me, going the extra mile, thank-you impact, FunStar, PEP Silver, and 2017 hackathon participation
+
+## Thought Leadership
+
+Topics I actively follow and discuss: Agentic AI, production AI agents, GenAI
+architecture, RAG systems, LLM reliability, AI governance, and emerging AI
+engineering practices.
+
 ## Current Portfolio Direction
 
 I am actively maintaining this profile around practical enterprise AI patterns:
