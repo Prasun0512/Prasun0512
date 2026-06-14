@@ -49,6 +49,9 @@ flowchart LR
 | [document-intelligence-llm-pipeline](https://github.com/Prasun0512/document-intelligence-llm-pipeline) | OCR + LLM extraction pipeline with validation and review routing |
 | [enterprise-ai-ml-case-studies](https://github.com/Prasun0512/enterprise-ai-ml-case-studies) | Sanitized case studies with runnable POCs across GenAI, RAG, CV, and automation |
 | [enterprise-ai-architecture-showcase](https://github.com/Prasun0512/enterprise-ai-architecture-showcase) | Architecture decision records, HLD/LLD diagrams, AI security, and platform patterns |
+| [enterprise-llm-evaluation-framework](https://github.com/Prasun0512/enterprise-llm-evaluation-framework) | LLM/RAG evaluation framework for faithfulness, groundedness, recall, relevance, and regression gates |
+| [ai-technical-lead-playbook](https://github.com/Prasun0512/ai-technical-lead-playbook) | AI delivery lifecycle, review standards, risk management, and architecture review process |
+| [enterprise-ai-case-studies](https://github.com/Prasun0512/enterprise-ai-case-studies) | Executive-style AI case studies covering problem, constraints, architecture, results, and lessons learned |
 
 ## Enterprise AI Capabilities
 
@@ -67,6 +70,8 @@ I am actively maintaining this profile around practical enterprise AI patterns:
 - Azure AI platform integration patterns
 - Document intelligence and workflow automation
 - AI governance, security, and production readiness
+- Technical leadership practices for AI delivery teams
+- LLM evaluation and release-gate standards
 
 ## Connect
 
