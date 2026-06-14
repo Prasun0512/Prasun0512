@@ -39,15 +39,24 @@ flowchart LR
 | Enterprise Governance | Audit trails, role-aware access, review queues, data minimization, AI security controls |
 | Engineering Leadership | Technical design, delivery planning, code review, stakeholder alignment, production readiness |
 
-## Featured Systems
+## What I Build
+
+- Agentic AI systems with planner, retriever, validator, executor, memory, and approval workflows.
+- Enterprise RAG platforms with ingestion, chunking, hybrid search, citations, feedback loops, and quality evaluation.
+- OCR + LLM document intelligence pipelines for extraction, redaction, validation, and human review.
+- Event-driven AI automation using queues, retries, idempotency, dead-letter handling, and audit trails.
+- LLMOps and AI governance patterns covering prompt/version control, evaluation gates, cost controls, and observability.
+
+## Featured Repositories
 
 | Repository | Architecture Signal |
 | --- | --- |
+| [enterprise-ai-ml-case-studies](https://github.com/Prasun0512/enterprise-ai-ml-case-studies) | Sanitized case studies with runnable POCs across GenAI, RAG, CV, and automation |
 | [agentic-ai-langgraph-workflows](https://github.com/Prasun0512/agentic-ai-langgraph-workflows) | Multi-step agent workflow with state, tools, risk gates, and audit traces |
 | [enterprise-rag-quality-lab](https://github.com/Prasun0512/enterprise-rag-quality-lab) | RAG evaluation, retrieval metrics, PII masking, and grounded answer quality |
-| [email-to-case-genai-automation](https://github.com/Prasun0512/email-to-case-genai-automation) | Event-driven GenAI automation for email, attachment, extraction, and case creation |
 | [document-intelligence-llm-pipeline](https://github.com/Prasun0512/document-intelligence-llm-pipeline) | OCR + LLM extraction pipeline with validation and review routing |
-| [enterprise-ai-ml-case-studies](https://github.com/Prasun0512/enterprise-ai-ml-case-studies) | Sanitized case studies with runnable POCs across GenAI, RAG, CV, and automation |
+| [email-to-case-genai-automation](https://github.com/Prasun0512/email-to-case-genai-automation) | Event-driven GenAI automation for email, attachment, extraction, and case creation |
+| [ai-resume-job-matcher](https://github.com/Prasun0512/ai-resume-job-matcher) | Explainable resume/JD matching assistant with skill gap analysis and suitability scoring |
 | [enterprise-ai-architecture-showcase](https://github.com/Prasun0512/enterprise-ai-architecture-showcase) | Architecture decision records, HLD/LLD diagrams, AI security, and platform patterns |
 | [enterprise-llm-evaluation-framework](https://github.com/Prasun0512/enterprise-llm-evaluation-framework) | LLM/RAG evaluation framework for faithfulness, groundedness, recall, relevance, and regression gates |
 | [ai-technical-lead-playbook](https://github.com/Prasun0512/ai-technical-lead-playbook) | AI delivery lifecycle, review standards, risk management, and architecture review process |
