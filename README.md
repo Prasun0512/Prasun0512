@@ -52,6 +52,12 @@ flowchart LR
 | [enterprise-llm-evaluation-framework](https://github.com/Prasun0512/enterprise-llm-evaluation-framework) | LLM/RAG evaluation framework for faithfulness, groundedness, recall, relevance, and regression gates |
 | [ai-technical-lead-playbook](https://github.com/Prasun0512/ai-technical-lead-playbook) | AI delivery lifecycle, review standards, risk management, and architecture review process |
 | [enterprise-ai-case-studies](https://github.com/Prasun0512/enterprise-ai-case-studies) | Executive-style AI case studies covering problem, constraints, architecture, results, and lessons learned |
+| [enterprise-integration-patterns](https://github.com/Prasun0512/enterprise-integration-patterns) | Webhooks, REST integrations, async messaging, retries, DLQs, idempotency, and audit logging |
+| [multi-tenant-ai-platform](https://github.com/Prasun0512/multi-tenant-ai-platform) | Tenant isolation, RBAC, feature flags, model/vector routing, usage metering, and cost tracking |
+| [enterprise-ai-platform-engineering](https://github.com/Prasun0512/enterprise-ai-platform-engineering) | Model gateway, prompt registry, guardrails, caching, routing, evaluation hooks, and cost controls |
+| [ai-reliability-engineering](https://github.com/Prasun0512/ai-reliability-engineering) | Retry, circuit breaker, fallback, poison queue, runbook, and postmortem patterns for AI systems |
+| [production-ai-operations](https://github.com/Prasun0512/production-ai-operations) | Deployment, rollback, canary, embedding refresh, index rebuild, monitoring, alerting, and cost playbooks |
+| [engineering-leadership](https://github.com/Prasun0512/engineering-leadership) | Architecture reviews, technical decisions, mentorship, roadmaps, stakeholder communication, and team scaling |
 
 ## Enterprise AI Capabilities
 
@@ -72,6 +78,7 @@ I am actively maintaining this profile around practical enterprise AI patterns:
 - AI governance, security, and production readiness
 - Technical leadership practices for AI delivery teams
 - LLM evaluation and release-gate standards
+- Enterprise integration, SaaS tenancy, platform engineering, reliability, and production AI operations
 
 ## Connect
 
