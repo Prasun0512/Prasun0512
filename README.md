@@ -1,6 +1,6 @@
 # Prasun Kumar
 
-**AI/ML Technical Lead | GenAI & Agentic AI Solution Architect | LangGraph | RAG | Azure AI | LLMOps | Enterprise AI Platforms**
+**AI/ML Engineer | Technical Lead | GenAI & Agentic AI Solution Architect | LangGraph | RAG | Azure OpenAI | Python**
 
 I design and deliver production-minded AI systems across Agentic AI, LLM
 applications, Retrieval-Augmented Generation, document intelligence, automation,
@@ -47,26 +47,33 @@ flowchart LR
 - Event-driven AI automation using queues, retries, idempotency, dead-letter handling, and audit trails.
 - LLMOps and AI governance patterns covering prompt/version control, evaluation gates, cost controls, and observability.
 
-## Featured Repositories
+## Flagship AI Repositories
 
 | Repository | Architecture Signal |
 | --- | --- |
 | [enterprise-ai-ml-case-studies](https://github.com/Prasun0512/enterprise-ai-ml-case-studies) | Sanitized case studies with runnable POCs across GenAI, RAG, CV, and automation |
 | [agentic-ai-langgraph-workflows](https://github.com/Prasun0512/agentic-ai-langgraph-workflows) | Multi-step agent workflow with state, tools, risk gates, and audit traces |
-| [enterprise-rag-quality-lab](https://github.com/Prasun0512/enterprise-rag-quality-lab) | RAG evaluation, retrieval metrics, PII masking, and grounded answer quality |
 | [document-intelligence-llm-pipeline](https://github.com/Prasun0512/document-intelligence-llm-pipeline) | OCR + LLM extraction pipeline with validation and review routing |
 | [email-to-case-genai-automation](https://github.com/Prasun0512/email-to-case-genai-automation) | Event-driven GenAI automation for email, attachment, extraction, and case creation |
+| [enterprise-rag-quality-lab](https://github.com/Prasun0512/enterprise-rag-quality-lab) | RAG evaluation, retrieval metrics, PII masking, and grounded answer quality |
 | [ai-resume-job-matcher](https://github.com/Prasun0512/ai-resume-job-matcher) | Explainable resume/JD matching assistant with skill gap analysis and suitability scoring |
-| [enterprise-ai-architecture-showcase](https://github.com/Prasun0512/enterprise-ai-architecture-showcase) | Architecture decision records, HLD/LLD diagrams, AI security, and platform patterns |
-| [enterprise-llm-evaluation-framework](https://github.com/Prasun0512/enterprise-llm-evaluation-framework) | LLM/RAG evaluation framework for faithfulness, groundedness, recall, relevance, and regression gates |
-| [ai-technical-lead-playbook](https://github.com/Prasun0512/ai-technical-lead-playbook) | AI delivery lifecycle, review standards, risk management, and architecture review process |
-| [enterprise-ai-case-studies](https://github.com/Prasun0512/enterprise-ai-case-studies) | Executive-style AI case studies covering problem, constraints, architecture, results, and lessons learned |
-| [enterprise-integration-patterns](https://github.com/Prasun0512/enterprise-integration-patterns) | Webhooks, REST integrations, async messaging, retries, DLQs, idempotency, and audit logging |
-| [multi-tenant-ai-platform](https://github.com/Prasun0512/multi-tenant-ai-platform) | Tenant isolation, RBAC, feature flags, model/vector routing, usage metering, and cost tracking |
-| [enterprise-ai-platform-engineering](https://github.com/Prasun0512/enterprise-ai-platform-engineering) | Model gateway, prompt registry, guardrails, caching, routing, evaluation hooks, and cost controls |
-| [ai-reliability-engineering](https://github.com/Prasun0512/ai-reliability-engineering) | Retry, circuit breaker, fallback, poison queue, runbook, and postmortem patterns for AI systems |
-| [production-ai-operations](https://github.com/Prasun0512/production-ai-operations) | Deployment, rollback, canary, embedding refresh, index rebuild, monitoring, alerting, and cost playbooks |
-| [engineering-leadership](https://github.com/Prasun0512/engineering-leadership) | Architecture reviews, technical decisions, mentorship, roadmaps, stakeholder communication, and team scaling |
+
+## ML Foundation Projects
+
+Earlier ML/CV repositories such as emotion detection, medical imaging
+experiments, gesture recognition, fraud detection, credit-risk analysis, and
+regression modeling are intentionally not pinned. I treat them as foundational
+learning artifacts, while this profile now emphasizes enterprise GenAI,
+Agentic AI, RAG, LLMOps, and production-ready AI architecture.
+
+## What I Can Discuss In Interviews
+
+- Architecture tradeoffs for queues, retries, DLQs, idempotency, and human review.
+- RAG evaluation: chunking, retrieval baselines, citation coverage, confidence thresholds, and hallucination control.
+- LLM cost control through model routing, deterministic baselines, caching, and evaluation gates.
+- OCR + LLM extraction design with schema validation, confidence scoring, and PII masking.
+- MLOps/LLMOps practices: versioned prompts, evaluation datasets, regression checks, monitoring, and audit trails.
+- Azure event-driven design using Azure Functions, Service Bus, Blob Storage, Document Intelligence, Azure OpenAI, and Graph API.
 
 ## Enterprise AI Capabilities
 
