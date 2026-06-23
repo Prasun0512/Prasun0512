@@ -34,6 +34,7 @@ flowchart LR
 | LLM Applications | Azure OpenAI, open-source LLM patterns, prompt governance, structured extraction, hallucination reduction |
 | RAG Systems | Chunking, embeddings, hybrid retrieval, reranking, citations, recall/precision evaluation, feedback loops |
 | LLMOps / MLOps | Evaluation harnesses, quality gates, model lifecycle cleanup, monitoring, reproducibility |
+| AI Security | Guardrails, jailbreak detection, prompt-injection controls, policy decisions, audit-friendly routing |
 | Document AI | OCR pipelines, PII/PHI masking, schema validation, confidence scoring, human review |
 | Cloud Architecture | Azure Functions, Service Bus, Blob Storage, Graph API, event-driven workflows, AWS exposure |
 | Enterprise Governance | Audit trails, role-aware access, review queues, data minimization, AI security controls |
@@ -46,6 +47,7 @@ flowchart LR
 - OCR + LLM document intelligence pipelines for extraction, redaction, validation, and human review.
 - Event-driven AI automation using queues, retries, idempotency, dead-letter handling, and audit trails.
 - LLMOps and AI governance patterns covering prompt/version control, evaluation gates, cost controls, and observability.
+- AI guardrail services for jailbreak detection, prompt-injection screening, policy routing, and safe model handoff.
 
 ## Flagship AI Repositories
 
@@ -57,6 +59,7 @@ flowchart LR
 | [email-to-case-genai-automation](https://github.com/Prasun0512/email-to-case-genai-automation) | Event-driven GenAI automation for email, attachment, extraction, and case creation |
 | [enterprise-rag-quality-lab](https://github.com/Prasun0512/enterprise-rag-quality-lab) | RAG evaluation, retrieval metrics, PII masking, and grounded answer quality |
 | [ai-resume-job-matcher](https://github.com/Prasun0512/ai-resume-job-matcher) | Explainable resume/JD matching assistant with skill gap analysis and suitability scoring |
+| [ai-jailguard](https://github.com/Prasun0512/ai-jailguard) | LLM security guardrail service for jailbreak, prompt-injection, policy-bypass, and secret-extraction checks |
 
 ## ML Foundation Projects
 
@@ -89,6 +92,7 @@ Agentic AI, RAG, LLMOps, and production-ready AI architecture.
 - [enterprise-ai-architecture-showcase](https://github.com/Prasun0512/enterprise-ai-architecture-showcase) - ADRs, HLD/LLD diagrams, AI security, and platform patterns
 - [enterprise-llm-evaluation-framework](https://github.com/Prasun0512/enterprise-llm-evaluation-framework) - LLM/RAG evaluation and release-gate patterns
 - [ai-reliability-engineering](https://github.com/Prasun0512/ai-reliability-engineering) - retry, fallback, poison queue, runbook, and postmortem patterns
+- [ai-jailguard](https://github.com/Prasun0512/ai-jailguard) - LLM jailbreak and prompt-injection guardrails with API, CLI, tests, and Docker support
 
 ## Certification
 
