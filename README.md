@@ -97,6 +97,10 @@ Agentic AI, RAG, LLMOps, and production-ready AI architecture.
 - [ai-malware-triage-lab](https://github.com/Prasun0512/ai-malware-triage-lab) - defensive static malware triage with explainable risk scoring and analyst routing
 - [ai-jailguard](https://github.com/Prasun0512/ai-jailguard) - LLM jailbreak and prompt-injection guardrails with API, CLI, tests, and Docker support
 
+Some supporting repositories are intentionally documentation-first playbooks.
+They are maintained as architecture artifacts for design reviews, operating
+models, governance, and technical-lead practices rather than toy applications.
+
 ## Certification
 
 **Post Graduate Program in Machine Learning & Artificial Intelligence**  

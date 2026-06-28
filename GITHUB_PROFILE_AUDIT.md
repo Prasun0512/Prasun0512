@@ -34,7 +34,7 @@ Older assignment-style and beginner ML repositories should remain de-emphasized 
 | `multi-tenant-ai-platform` | Shows SaaS architecture, tenant isolation, RBAC, usage metering, and cost routing. | Add tenant policy and quota tests. |
 | `ai-technical-lead-playbook` | Shows leadership maturity beyond coding. | Keep practical and concise; avoid sounding generic. |
 | `engineering-leadership` | Supports technical lead positioning. | Keep aligned with architecture reviews and mentoring practices. |
-| `enterprise-ai-case-studies` | Useful executive-facing case-study companion. | Avoid overlap with `enterprise-ai-ml-case-studies` by keeping this higher-level. |
+| `enterprise-ai-case-studies` | Archived duplicate case-study companion. | Kept read-only to avoid diluting the stronger `enterprise-ai-ml-case-studies` signal. |
 | `Resume` | Portfolio website and GitHub Pages entry point. | Keep modern AI architect positioning and avoid broken links to archived/private repositories. |
 | `Prasun0512` | Profile README, featured project index, and audit record. | Keep top projects and contact links current. |
 
@@ -62,7 +62,7 @@ No rename should be executed automatically without verifying GitHub Pages links,
 
 | Current name | Suggested name | Rationale |
 | --- | --- | --- |
-| `ResturantChatbot` | `restaurant-ai-chatbot` or `restaurant-rag-assistant` | Fix spelling and align with AI assistant/RAG branding. |
+| `restaurant-ai-chatbot` | Rename completed | Kept as a foundational NLP/chatbot project. |
 | `TaskManger` | `ai-task-prioritization-assistant` | Only if rebuilt into an AI prioritization app; otherwise keep private/archived. |
 | `Resume` | Keep as-is | Preserves existing GitHub Pages URL; update content instead of renaming. |
 

@@ -24,7 +24,7 @@ This file is a practical cleanup plan for keeping the public GitHub profile cred
 | `ai-resume-job-matcher` | Demo-friendly AI app | Risk of being seen as lightweight if only CLI | Pin / improve | P1 | Add API/web demo when practical and keep responsible-AI disclaimer clear. |
 | `Resume` | Public portfolio site | Must stay aligned with GitHub README and resume PDF | Keep / improve | P0 | Keep featured project list aligned with pinned repos and ensure Pages link works. |
 | `Prasun0512` | Profile entry point | Too many featured repos can dilute signal | Keep / improve | P0 | Keep flagship section to six repos and move other work to supporting sections. |
-| `ResturantChatbot` | Public legacy NLP/chatbot signal | Spelling mistake and older stack presentation | Rename / improve | P1 | Rename to `restaurant-ai-chatbot` after checking external links; add senior README framing. |
+| `restaurant-ai-chatbot` | Public legacy NLP/chatbot signal | Older stack presentation | Keep foundational / improve | P2 | Rename completed; keep de-emphasized as foundational NLP work. |
 | `enterprise-ai-architecture-showcase` | Good architecture support signal | Could overlap with case-study repo | Keep but not pin | P2 | Keep as supporting architecture reference. |
 | `enterprise-llm-evaluation-framework` | Good LLMOps support signal | Needs real report examples | Keep but not pin | P2 | Add regression report examples over time. |
 | `enterprise-ai-platform-engineering` | Good platform signal | Needs API/demo depth | Keep but not pin | P2 | Add provider gateway examples and tests. |
