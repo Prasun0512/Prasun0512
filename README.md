@@ -34,7 +34,7 @@ flowchart LR
 | LLM Applications | Azure OpenAI, open-source LLM patterns, prompt governance, structured extraction, hallucination reduction |
 | RAG Systems | Chunking, embeddings, hybrid retrieval, reranking, citations, recall/precision evaluation, feedback loops |
 | LLMOps / MLOps | Evaluation harnesses, quality gates, model lifecycle cleanup, monitoring, reproducibility |
-| AI Security | Guardrails, jailbreak detection, prompt-injection controls, malware triage, policy decisions, audit-friendly routing |
+| AI Security | Guardrails, jailbreak detection, prompt-injection controls, SOC alert triage, malware triage, policy decisions, audit-friendly routing |
 | Document AI | OCR pipelines, PII/PHI masking, schema validation, confidence scoring, human review |
 | Cloud Architecture | Azure Functions, Service Bus, Blob Storage, Graph API, event-driven workflows, AWS exposure |
 | Enterprise Governance | Audit trails, role-aware access, review queues, data minimization, AI security controls |
@@ -48,7 +48,7 @@ flowchart LR
 - Event-driven AI automation using queues, retries, idempotency, dead-letter handling, and audit trails.
 - LLMOps and AI governance patterns covering prompt/version control, evaluation gates, cost controls, and observability.
 - AI guardrail services for jailbreak detection, prompt-injection screening, policy routing, and safe model handoff.
-- Defensive cybersecurity AI labs for static malware triage, explainable risk scoring, and SOC-style escalation workflows.
+- Defensive cybersecurity AI labs for SOC alert enrichment, static malware triage, explainable risk scoring, and analyst escalation workflows.
 
 ## Flagship AI Repositories
 
@@ -60,6 +60,7 @@ flowchart LR
 | [email-to-case-genai-automation](https://github.com/Prasun0512/email-to-case-genai-automation) | Event-driven GenAI automation for email, attachment, extraction, and case creation |
 | [enterprise-rag-quality-lab](https://github.com/Prasun0512/enterprise-rag-quality-lab) | RAG evaluation, retrieval metrics, PII masking, and grounded answer quality |
 | [ai-resume-job-matcher](https://github.com/Prasun0512/ai-resume-job-matcher) | Explainable resume/JD matching assistant with skill gap analysis and suitability scoring |
+| [ai-soc-alert-copilot](https://github.com/Prasun0512/ai-soc-alert-copilot) | Defensive SOC alert copilot with SIEM normalization, MITRE mapping, playbooks, and analyst summaries |
 | [ai-malware-triage-lab](https://github.com/Prasun0512/ai-malware-triage-lab) | Defensive malware triage with static feature extraction, explainable ML scoring, and SOC-style routing |
 | [ai-jailguard](https://github.com/Prasun0512/ai-jailguard) | LLM security guardrail service for jailbreak, prompt-injection, policy-bypass, and secret-extraction checks |
 
@@ -94,6 +95,7 @@ Agentic AI, RAG, LLMOps, and production-ready AI architecture.
 - [enterprise-ai-architecture-showcase](https://github.com/Prasun0512/enterprise-ai-architecture-showcase) - ADRs, HLD/LLD diagrams, AI security, and platform patterns
 - [enterprise-llm-evaluation-framework](https://github.com/Prasun0512/enterprise-llm-evaluation-framework) - LLM/RAG evaluation and release-gate patterns
 - [ai-reliability-engineering](https://github.com/Prasun0512/ai-reliability-engineering) - retry, fallback, poison queue, runbook, and postmortem patterns
+- [ai-soc-alert-copilot](https://github.com/Prasun0512/ai-soc-alert-copilot) - defensive SOC alert enrichment with MITRE-style mapping, playbooks, scoring, and analyst summaries
 - [ai-malware-triage-lab](https://github.com/Prasun0512/ai-malware-triage-lab) - defensive static malware triage with explainable risk scoring and analyst routing
 - [ai-jailguard](https://github.com/Prasun0512/ai-jailguard) - LLM jailbreak and prompt-injection guardrails with API, CLI, tests, and Docker support
 
