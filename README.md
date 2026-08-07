@@ -34,6 +34,7 @@ flowchart LR
 | LLM Applications | Azure OpenAI, open-source LLM patterns, prompt governance, structured extraction, hallucination reduction |
 | RAG Systems | Chunking, embeddings, hybrid retrieval, reranking, citations, privacy controls, recall/precision evaluation, feedback loops |
 | LLMOps / MLOps | Evaluation harnesses, quality gates, model lifecycle cleanup, monitoring, reproducibility |
+| LLM Platform Engineering | FastAPI gateways, provider routing, prompt registry, usage budgets, Kubernetes manifests, autoscaling, health checks, metrics |
 | AI Security | Guardrails, jailbreak detection, prompt-injection controls, privacy-preserving RAG, SOC alert triage, malware triage, policy decisions, audit-friendly routing |
 | Document AI | OCR pipelines, PII/PHI masking, schema validation, confidence scoring, human review |
 | Cloud Architecture | Azure Functions, Service Bus, Blob Storage, Graph API, event-driven workflows, AWS exposure |
@@ -47,6 +48,7 @@ flowchart LR
 - OCR + LLM document intelligence pipelines for extraction, redaction, validation, and human review.
 - Event-driven AI automation using queues, retries, idempotency, dead-letter handling, and audit trails.
 - LLMOps and AI governance patterns covering prompt/version control, evaluation gates, cost controls, and observability.
+- Production LLM platform patterns with FastAPI gateways, model-provider abstraction, policy checks, Kubernetes deployment, autoscaling, and metrics.
 - Privacy-preserving RAG controls for PII detection, redaction, sensitive chunk filtering, output leakage checks, and audit trails.
 - AI guardrail services for jailbreak detection, prompt-injection screening, policy routing, and safe model handoff.
 - Defensive cybersecurity AI labs for SOC alert enrichment, static malware triage, explainable risk scoring, and analyst escalation workflows.
@@ -61,6 +63,7 @@ flowchart LR
 | [email-to-case-genai-automation](https://github.com/Prasun0512/email-to-case-genai-automation) | Event-driven GenAI automation for email, attachment, extraction, and case creation |
 | [enterprise-rag-quality-lab](https://github.com/Prasun0512/enterprise-rag-quality-lab) | RAG evaluation, retrieval metrics, PII masking, and grounded answer quality |
 | [ai-resume-job-matcher](https://github.com/Prasun0512/ai-resume-job-matcher) | Explainable resume/JD matching assistant with skill gap analysis and suitability scoring |
+| [production-llm-platform-on-kubernetes](https://github.com/Prasun0512/production-llm-platform-on-kubernetes) | FastAPI LLM gateway with provider routing, policy checks, usage budgets, metrics, Docker, and Kubernetes deployment assets |
 | [privacy-preserving-rag-dlp](https://github.com/Prasun0512/privacy-preserving-rag-dlp) | RAG privacy layer with PII detection, redaction, sensitive chunk filtering, output leakage checks, and audit trails |
 | [ai-soc-alert-copilot](https://github.com/Prasun0512/ai-soc-alert-copilot) | Defensive SOC alert copilot with SIEM normalization, MITRE mapping, playbooks, and analyst summaries |
 | [ai-malware-triage-lab](https://github.com/Prasun0512/ai-malware-triage-lab) | Defensive malware triage with static feature extraction, explainable ML scoring, and SOC-style routing |
@@ -97,6 +100,7 @@ Agentic AI, RAG, LLMOps, and production-ready AI architecture.
 - [enterprise-ai-architecture-showcase](https://github.com/Prasun0512/enterprise-ai-architecture-showcase) - ADRs, HLD/LLD diagrams, AI security, and platform patterns
 - [enterprise-llm-evaluation-framework](https://github.com/Prasun0512/enterprise-llm-evaluation-framework) - LLM/RAG evaluation and release-gate patterns
 - [ai-reliability-engineering](https://github.com/Prasun0512/ai-reliability-engineering) - retry, fallback, poison queue, runbook, and postmortem patterns
+- [production-llm-platform-on-kubernetes](https://github.com/Prasun0512/production-llm-platform-on-kubernetes) - production-minded LLM gateway on Kubernetes with FastAPI, policy checks, metrics, scaling, and deployment manifests
 - [privacy-preserving-rag-dlp](https://github.com/Prasun0512/privacy-preserving-rag-dlp) - RAG privacy and DLP controls for prompts, retrieved chunks, outputs, and audit trails
 - [ai-soc-alert-copilot](https://github.com/Prasun0512/ai-soc-alert-copilot) - defensive SOC alert enrichment with MITRE-style mapping, playbooks, scoring, and analyst summaries
 - [ai-malware-triage-lab](https://github.com/Prasun0512/ai-malware-triage-lab) - defensive static malware triage with explainable risk scoring and analyst routing
