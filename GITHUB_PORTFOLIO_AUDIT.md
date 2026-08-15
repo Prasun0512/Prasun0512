@@ -2,7 +2,7 @@
 
 Audit date: June 14, 2026
 
-This file is a practical cleanup plan for keeping the public GitHub profile credible for an 8.5+ year AI/ML Engineer, Technical Lead, and GenAI / Agentic AI Solution Architect profile.
+This file is a practical cleanup plan for keeping the public GitHub profile credible for a 9+ year AI/ML Engineer, Technical Lead, and GenAI / Agentic AI Solution Architect profile.
 
 ## Current Portfolio Strategy
 

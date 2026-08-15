@@ -8,7 +8,7 @@ and MLOps. My focus is building enterprise AI platforms that are observable,
 governed, secure, cost-aware, and practical enough to run inside real business
 workflows.
 
-I bring **8.5+ years of software engineering experience** with hands-on AI/ML
+I bring **9+ years of full-time software engineering experience** with hands-on AI/ML
 delivery, technical leadership, system design, cloud-native architecture, and
 cross-functional execution.
 

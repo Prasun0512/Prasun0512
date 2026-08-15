@@ -2,7 +2,7 @@
 
 Audit date: June 14, 2026
 
-This audit positions the public GitHub profile around an 8.5+ year AI/ML Engineer, Technical Lead, and GenAI/Agentic AI Solution Architect story. The recommendations avoid fake metrics, fake client code, and confidential implementation details.
+This audit positions the public GitHub profile around a 9+ year AI/ML Engineer, Technical Lead, and GenAI/Agentic AI Solution Architect story. The recommendations avoid fake metrics, fake client code, and confidential implementation details.
 
 ## Executive Summary
 
