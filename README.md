@@ -47,6 +47,7 @@ flowchart LR
 - Enterprise RAG platforms with ingestion, chunking, hybrid search, citations, feedback loops, and quality evaluation.
 - OCR + LLM document intelligence pipelines for extraction, redaction, validation, and human review.
 - Event-driven AI automation using queues, retries, idempotency, dead-letter handling, and audit trails.
+- AI-assisted test automation pipelines that convert Jira/ADO stories into endpoint-grounded test cases, Playwright API specs, and defect payloads.
 - LLMOps and AI governance patterns covering prompt/version control, evaluation gates, cost controls, and observability.
 - Production LLM platform patterns with FastAPI gateways, model-provider abstraction, policy checks, Kubernetes deployment, autoscaling, and metrics.
 - Privacy-preserving RAG controls for PII detection, redaction, sensitive chunk filtering, output leakage checks, and audit trails.
@@ -61,6 +62,7 @@ flowchart LR
 | [agentic-ai-langgraph-workflows](https://github.com/Prasun0512/agentic-ai-langgraph-workflows) | Multi-step agent workflow with state, tools, risk gates, and audit traces |
 | [document-intelligence-llm-pipeline](https://github.com/Prasun0512/document-intelligence-llm-pipeline) | OCR + LLM extraction pipeline with validation and review routing |
 | [email-to-case-genai-automation](https://github.com/Prasun0512/email-to-case-genai-automation) | Event-driven GenAI automation for email, attachment, extraction, and case creation |
+| [ai-test-automation-copilot](https://github.com/Prasun0512/ai-test-automation-copilot) | AI-assisted testing pipeline for Jira/ADO stories, endpoint-grounded test cases, Playwright API specs, and defect payloads |
 | [enterprise-rag-quality-lab](https://github.com/Prasun0512/enterprise-rag-quality-lab) | RAG evaluation, retrieval metrics, PII masking, and grounded answer quality |
 | [ai-resume-job-matcher](https://github.com/Prasun0512/ai-resume-job-matcher) | Explainable resume/JD matching assistant with skill gap analysis and suitability scoring |
 | [production-llm-platform-on-kubernetes](https://github.com/Prasun0512/production-llm-platform-on-kubernetes) | FastAPI LLM gateway with provider routing, policy checks, usage budgets, metrics, Docker, and Kubernetes deployment assets |
