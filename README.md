@@ -1,6 +1,15 @@
 # Prasun Kumar
 
-**AI/ML Engineer | Technical Lead | GenAI & Agentic AI Solution Architect | LangGraph | RAG | Azure OpenAI | Python**
+**Senior Application Developer at IBM | AI/ML & GenAI | LangGraph | RAG | Azure OpenAI | Amazon Bedrock | Python**
+
+I joined **IBM India Pvt. Ltd., Pune**, as **Senior Application Developer,
+Band 07**, on **3 November 2026**. Previously at Harbinger Group, I worked
+as Associate AI Specialist (Jul-Nov 2026), Associate Technical Lead
+(Jul 2024-Jun 2026), and Senior Software Engineer (Apr 2021-Jun 2024).
+Enterprise case studies describe prior-role work; public tools are independent
+portfolio implementations.
+
+[Current resume PDF](https://prasun0512.github.io/Resume/Prasun_Kumar_AI_ML_Architect_Resume.pdf)
 
 I design and deliver production-minded AI systems across Agentic AI, LLM
 applications, Retrieval-Augmented Generation, document intelligence, automation,
@@ -58,6 +67,8 @@ flowchart LR
 
 | Repository | Architecture Signal |
 | --- | --- |
+| [ml-release-governance](https://github.com/Prasun0512/ml-release-governance) | Measured model comparison, bootstrap uncertainty, drift, slice evaluation, latency/cost policy and release evidence |
+| [ai-delivery-planner](https://github.com/Prasun0512/ai-delivery-planner) | Solver-based AI initiative prioritization under budget, role capacity, dependencies and governance prerequisites |
 | [enterprise-ai-ml-case-studies](https://github.com/Prasun0512/enterprise-ai-ml-case-studies) | Sanitized case studies with runnable POCs across GenAI, RAG, CV, and automation |
 | [agentic-ai-langgraph-workflows](https://github.com/Prasun0512/agentic-ai-langgraph-workflows) | Multi-step agent workflow with state, tools, risk gates, and audit traces |
 | [document-intelligence-llm-pipeline](https://github.com/Prasun0512/document-intelligence-llm-pipeline) | OCR + LLM extraction pipeline with validation and review routing |
@@ -81,6 +92,8 @@ Agentic AI, RAG, LLMOps, and production-ready AI architecture.
 
 ## What I Can Discuss In Interviews
 
+- AI/ML lead and delivery-management decisions: scope, resource tradeoffs, review gates, mentoring and stakeholder alignment.
+- Model release decisions from measured evidence and scenario planning under constrained team capacity.
 - Architecture tradeoffs for queues, retries, DLQs, idempotency, and human review.
 - RAG evaluation: chunking, retrieval baselines, citation coverage, confidence thresholds, and hallucination control.
 - LLM cost control through model routing, deterministic baselines, caching, and evaluation gates.
